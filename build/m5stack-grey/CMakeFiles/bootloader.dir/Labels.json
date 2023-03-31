@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

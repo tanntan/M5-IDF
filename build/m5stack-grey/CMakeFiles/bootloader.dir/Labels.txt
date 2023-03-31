@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/CMakeFiles/bootloader
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/CMakeFiles/bootloader.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/CMakeFiles/bootloader-complete.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/tan/Documents/PlatformIO/Projects/M5Stack/.pio/build/m5stack-grey/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
